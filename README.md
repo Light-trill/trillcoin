@@ -1,0 +1,2 @@
+# trillcoin
+stay a human
